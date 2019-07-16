@@ -22,15 +22,19 @@ The included read-ged.py program can produce info about a GED file:
 
 To get a listing of all the names in the file, with the
 GED id as the first item on each line:
+
      read-ged.py  family.ged   list
 	 
 To list only the persons which don't have any parents in the file:
+
      read-ged.py  family.ged   noparents
 
 To get a count of the maxium number of generations for each person,
 with the count as the first item on each line:
+
      read-ged.py  family.ged  generations
 
 Using those outputs to determine the ID of the "start" person.
 Output a JSON format file, ready for the visualization:
+
      read-ged.py  family.ged  json  person-ged-id > family.json
