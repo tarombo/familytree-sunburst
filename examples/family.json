@@ -1,0 +1,132 @@
+var loadData =
+{"name": "William_I", "detail": "William_I of_Netherlands\nBorn: 24 AUG 1772\nDied: 12 DEC 1843\nParents: William_V of_Orange and Wilhelmina", "children": [
+   {"name": "William_II", "detail": "William_II of_Netherlands\nBorn: 6 DEC 1792\nDied: 17 MAR 1849\nParents: William_I of_Netherlands and Wilhelmina", "children": [
+      {"name": "William_III", "detail": "William_III of_Netherlands\nBorn: 19 FEB 1817\nDied: 23 NOV 1890\nParents: William_II of_Netherlands and Anna Pavlovna", "children": [
+         {"name": "William", "detail": "William\nBorn: 1840\nDied: 1879\nParents: William_III of_Netherlands and Sophie WURTTEMBERG", "size": 1},
+         {"name": "Maurice", "detail": "Maurice\nBorn: 1843\nDied: 1850\nParents: William_III of_Netherlands and Sophie WURTTEMBERG", "size": 1},
+         {"name": "Alexander", "detail": "Alexander\nBorn: 1851\nDied: 1884\nParents: William_III of_Netherlands and Sophie WURTTEMBERG", "size": 1},
+         {"name": "Wilhelmina", "detail": "Wilhelmina of_Netherlands\nBorn: 31 AUG 1880\nDied: 28 NOV 1962\nParents: William_III of_Netherlands and Emma of_Netherlands", "children": [
+            {"name": "Juliana", "detail": "Juliana of_Netherlands\nBorn: 30 APR 1909\nParents: Henry of_Mecklenburg and Wilhelmina of_Netherlands", "children": [
+               {"name": "Beatrix", "detail": "Beatrix of_Netherlands\nBorn: 31 JAN 1938\nParents: Bernhard of_Lippe- Biesterfeld and Juliana of_Netherlands", "children": [
+                  {"name": "William", "detail": "William Alexander\nBorn: 1967\nParents: Claus VON_AMSBERG and Beatrix of_Netherlands", "size": 1},
+                  {"name": "John", "detail": "John Friso\nBorn: 1968\nParents: Claus VON_AMSBERG and Beatrix of_Netherlands", "size": 1},
+                  {"name": "Constantine", "detail": "Constantine\nBorn: 1969\nParents: Claus VON_AMSBERG and Beatrix of_Netherlands", "size": 1}
+               ]},
+               {"name": "Irene", "detail": "Irene\nBorn: 1939\nParents: Bernhard of_Lippe- Biesterfeld and Juliana of_Netherlands", "size": 1},
+               {"name": "Margaret", "detail": "Margaret\nBorn: 1943\nParents: Bernhard of_Lippe- Biesterfeld and Juliana of_Netherlands", "size": 1},
+               {"name": "Mary", "detail": "Mary Christina\nBorn: 1947\nParents: Bernhard of_Lippe- Biesterfeld and Juliana of_Netherlands", "size": 1}
+            ]}
+         ]}
+      ]},
+      {"name": "Alexander", "detail": "Alexander\nBorn: 1818\nDied: 1848\nParents: William_II of_Netherlands and Anna Pavlovna", "size": 1},
+      {"name": "Henry", "detail": "Henry\nBorn: 1820\nDied: 1879\nParents: William_II of_Netherlands and Anna Pavlovna", "size": 1},
+      {"name": "Ernest", "detail": "Ernest\nBorn: 1822\nDied: 1822\nParents: William_II of_Netherlands and Anna Pavlovna", "size": 1},
+      {"name": "Sophie", "detail": "Sophie\nBorn: 1824\nDied: 1897\nParents: William_II of_Netherlands and Anna Pavlovna", "size": 1}
+   ]},
+   {"name": "Frederik", "detail": "Frederik of_Netherlands\nBorn: 1797\nDied: 1881\nParents: William_I of_Netherlands and Wilhelmina", "children": [
+      {"name": "Louise", "detail": "Louise\nBorn: 5 AUG 1828\nDied: 30 MAR 1871\nParents: Frederik of_Netherlands and Louisa of_Prussia", "children": [
+         {"name": "Louise", "detail": "Louise of_Sweden\nBorn: 31 OCT 1851\nDied: 20 MAR 1926\nParents: Charles_XV and Louise", "children": [
+            {"name": "Christian_X", "detail": "Christian_X\nBorn: 26 SEP 1870\nDied: 20 APR 1947\nParents: Frederick_VIII and Louise of_Sweden", "children": [
+               {"name": "Frederick_IX", "detail": "Frederick_IX\nBorn: 11 MAR 1899\nDied: 14 JAN 1972\nParents: Christian_X and Alexandrine of_Mecklenburg- Schwerin", "children": [
+                  {"name": "Mergrethe_II", "detail": "Mergrethe_II\nBorn: 16 APR 1940\nParents: Frederick_IX and Ingrid Victoria of_Sweden", "children": [
+                     {"name": "Frederick", "detail": "Frederick\nBorn: 1968\nParents: Henri DE_LABORDE and Mergrethe_II", "size": 1},
+                     {"name": "Joachim", "detail": "Joachim\nBorn: 1969\nParents: Henri DE_LABORDE and Mergrethe_II", "size": 1}
+                  ]},
+                  {"name": "Benedikte", "detail": "Benedikte\nBorn: 1944\nParents: Frederick_IX and Ingrid Victoria of_Sweden", "size": 1},
+                  {"name": "Anne-Marie", "detail": "Anne-Marie of_Denmark\nBorn: 30 AUG 1946\nParents: Frederick_IX and Ingrid Victoria of_Sweden", "children": [
+                     {"name": "Alexia", "detail": "Alexia OLDENBURG\nBorn: 1965\nParents: Constantine_II OLDENBURG and Anne-Marie of_Denmark", "size": 1},
+                     {"name": "Paul", "detail": "Paul of_Sparta OLDENBURG\nBorn: 1967\nParents: Constantine_II OLDENBURG and Anne-Marie of_Denmark", "size": 1},
+                     {"name": "Nicholas", "detail": "Nicholas OLDENBURG\nBorn: 1969\nParents: Constantine_II OLDENBURG and Anne-Marie of_Denmark", "size": 1},
+                     {"name": "unknown", "detail": "OLDENBURG\nParents: Constantine_II OLDENBURG and Anne-Marie of_Denmark", "size": 1},
+                     {"name": "unknown", "detail": "OLDENBURG\nParents: Constantine_II OLDENBURG and Anne-Marie of_Denmark", "size": 1}
+                  ]}
+               ]},
+               {"name": "Knud", "detail": "Knud\nBorn: 1900\nDied: 1976\nParents: Christian_X and Alexandrine of_Mecklenburg- Schwerin", "children": [
+                  {"name": "Elizabeth", "detail": "Elizabeth\nBorn: 1935\nParents: Knud and Caroline Mathilde", "size": 1},
+                  {"name": "Ingolf", "detail": "Ingolf\nBorn: 1940\nParents: Knud and Caroline Mathilde", "size": 1},
+                  {"name": "Christian", "detail": "Christian\nBorn: 1942\nParents: Knud and Caroline Mathilde", "size": 1}
+               ]}
+            ]},
+            {"name": "Charles", "detail": "Charles Haakon_VII\nBorn: 1872\nDied: 1957\nParents: Frederick_VIII and Louise of_Sweden", "children": [
+               {"name": "Olav_V", "detail": "Olav_V\nBorn: 2 JUL 1903\nDied: 17 JAN 1991\nParents: Charles Haakon_VII and Maude Charlotte Mary", "children": [
+                  {"name": "Ragnhild", "detail": "Ragnhild Alexandra\nBorn: 1930\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Haakon", "detail": "Haakon LORENTZEN\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1},
+                     {"name": "Ingeborg", "detail": "Ingeborg LORENTZEN\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1},
+                     {"name": "Ragnhild", "detail": "Ragnhild Alexandra LORENTZEN\nBorn: 1968\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1}
+                  ]},
+                  {"name": "Astrid", "detail": "Astrid Maud Ingeborg\nBorn: 1932\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Cathrine", "detail": "Cathrine FERNER\nBorn: 1962\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Benedickte", "detail": "Benedickte FERNER\nBorn: 1963\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Alexander", "detail": "Alexander FERNER\nBorn: 1965\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Elisabeth", "detail": "Elisabeth FERNER\nBorn: 1969\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Carl", "detail": "Carl Christian FERNER\nBorn: 1972\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1}
+                  ]},
+                  {"name": "Harald", "detail": "Harald\nBorn: 21 FEB 1937\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Martha", "detail": "Martha Louise\nBorn: 1971\nParents: Harald and Sonja HARALDSEN", "size": 1},
+                     {"name": "Haakon", "detail": "Haakon of_Norway MAGNUS\nBorn: 1973\nParents: Harald and Sonja HARALDSEN", "size": 1}
+                  ]}
+               ]}
+            ]},
+            {"name": "Louise", "detail": "Louise\nBorn: 1875\nDied: 1906\nParents: Frederick_VIII and Louise of_Sweden", "size": 1},
+            {"name": "Harold", "detail": "Harold\nBorn: 1876\nDied: 1949\nParents: Frederick_VIII and Louise of_Sweden", "children": [
+               {"name": "Feodora", "detail": "Feodora\nBorn: 1910\nDied: 1975\nParents: Harold and Helene of_Schleswig- Holstein", "size": 1},
+               {"name": "Caroline", "detail": "Caroline Mathilde\nBorn: 1912\nParents: Harold and Helene of_Schleswig- Holstein", "children": [
+                  {"name": "Elizabeth", "detail": "Elizabeth\nBorn: 1935\nParents: Knud and Caroline Mathilde", "size": 1},
+                  {"name": "Ingolf", "detail": "Ingolf\nBorn: 1940\nParents: Knud and Caroline Mathilde", "size": 1},
+                  {"name": "Christian", "detail": "Christian\nBorn: 1942\nParents: Knud and Caroline Mathilde", "size": 1}
+               ]},
+               {"name": "Alexandrine", "detail": "Alexandrine Louise\nBorn: 1914\nDied: 1962\nParents: Harold and Helene of_Schleswig- Holstein", "size": 1},
+               {"name": "Gorm", "detail": "Gorm\nBorn: 1919\nParents: Harold and Helene of_Schleswig- Holstein", "size": 1},
+               {"name": "Oluf", "detail": "Oluf of_Rosenborg\nBorn: 1923\nParents: Harold and Helene of_Schleswig- Holstein", "size": 1}
+            ]},
+            {"name": "Ingeborg", "detail": "Ingeborg of_Denmark\nBorn: 1878\nDied: 1958\nParents: Frederick_VIII and Louise of_Sweden", "children": [
+               {"name": "Margaretha", "detail": "Margaretha\nBorn: 1899\nDied: 1977\nParents: Charles of_Sweden and Ingeborg of_Denmark", "size": 1},
+               {"name": "Martha", "detail": "Martha of_Sweden\nBorn: 1901\nDied: 1954\nParents: Charles of_Sweden and Ingeborg of_Denmark", "children": [
+                  {"name": "Ragnhild", "detail": "Ragnhild Alexandra\nBorn: 1930\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Haakon", "detail": "Haakon LORENTZEN\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1},
+                     {"name": "Ingeborg", "detail": "Ingeborg LORENTZEN\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1},
+                     {"name": "Ragnhild", "detail": "Ragnhild Alexandra LORENTZEN\nBorn: 1968\nParents: Erling LORENTZEN and Ragnhild Alexandra", "size": 1}
+                  ]},
+                  {"name": "Astrid", "detail": "Astrid Maud Ingeborg\nBorn: 1932\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Cathrine", "detail": "Cathrine FERNER\nBorn: 1962\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Benedickte", "detail": "Benedickte FERNER\nBorn: 1963\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Alexander", "detail": "Alexander FERNER\nBorn: 1965\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Elisabeth", "detail": "Elisabeth FERNER\nBorn: 1969\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1},
+                     {"name": "Carl", "detail": "Carl Christian FERNER\nBorn: 1972\nParents: Johan Martin FERNER and Astrid Maud Ingeborg", "size": 1}
+                  ]},
+                  {"name": "Harald", "detail": "Harald\nBorn: 21 FEB 1937\nParents: Olav_V and Martha of_Sweden", "children": [
+                     {"name": "Martha", "detail": "Martha Louise\nBorn: 1971\nParents: Harald and Sonja HARALDSEN", "size": 1},
+                     {"name": "Haakon", "detail": "Haakon of_Norway MAGNUS\nBorn: 1973\nParents: Harald and Sonja HARALDSEN", "size": 1}
+                  ]}
+               ]},
+               {"name": "Astrid", "detail": "Astrid of_Sweden\nBorn: 17 NOV 1905\nDied: 29 AUG 1935\nParents: Charles of_Sweden and Ingeborg of_Denmark", "children": [
+                  {"name": "Josephine", "detail": "Josephine Charlotte\nBorn: 1927\nParents: Leopold_III and Astrid of_Sweden", "size": 1},
+                  {"name": "Baudouin_I", "detail": "Baudouin_I of_the_Belgians\nBorn: 7 SEP 1930\nParents: Leopold_III and Astrid of_Sweden", "size": 1},
+                  {"name": "Albert", "detail": "Albert\nBorn: 1934\nParents: Leopold_III and Astrid of_Sweden", "children": [
+                     {"name": "Philippe", "detail": "Philippe\nBorn: 1960\nParents: Albert and Paola di_Calabria RUFFO", "size": 1},
+                     {"name": "Astrid", "detail": "Astrid\nBorn: 1962\nParents: Albert and Paola di_Calabria RUFFO", "size": 1},
+                     {"name": "Laurent", "detail": "Laurent\nBorn: 1963\nParents: Albert and Paola di_Calabria RUFFO", "size": 1}
+                  ]}
+               ]},
+               {"name": "Carl", "detail": "Carl Gustaf Oscar\nBorn: 10 JAN 1911\nParents: Charles of_Sweden and Ingeborg of_Denmark", "children": [
+                  {"name": "Madeline", "detail": "Madeline Bernadotte\nBorn: 1938\nParents: Carl Gustaf Oscar and Elsa VON_ROSEN", "children": [
+                     {"name": "Marie", "detail": "Marie Christine ULLENS\nBorn: 1964\nParents: Charles de_Schooten ULLENS and Madeline Bernadotte", "size": 1},
+                     {"name": "Jean", "detail": "Jean Charles ULLENS\nBorn: 1965\nParents: Charles de_Schooten ULLENS and Madeline Bernadotte", "size": 1},
+                     {"name": "Astrid", "detail": "Astrid ULLENS\nBorn: 1970\nParents: Charles de_Schooten ULLENS and Madeline Bernadotte", "size": 1},
+                     {"name": "Sophie", "detail": "Sophie ULLENS\nBorn: 1972\nParents: Charles de_Schooten ULLENS and Madeline Bernadotte", "size": 1}
+                  ]}
+               ]}
+            ]},
+            {"name": "Thyra", "detail": "Thyra\nBorn: 1880\nDied: 1945\nParents: Frederick_VIII and Louise of_Sweden", "size": 1},
+            {"name": "Gustav", "detail": "Gustav\nBorn: 1887\nDied: 1944\nParents: Frederick_VIII and Louise of_Sweden", "size": 1},
+            {"name": "Dagmar", "detail": "Dagmar\nBorn: 1890\nDied: 1961\nParents: Frederick_VIII and Louise of_Sweden", "size": 1}
+         ]}
+      ]},
+      {"name": "Frederick", "detail": "Frederick\nBorn: 1833\nDied: 1834\nParents: Frederik of_Netherlands and Louisa of_Prussia", "size": 1},
+      {"name": "William", "detail": "William\nBorn: 1836\nDied: 1846\nParents: Frederik of_Netherlands and Louisa of_Prussia", "size": 1},
+      {"name": "Marie", "detail": "Marie\nBorn: 1841\nDied: 1910\nParents: Frederik of_Netherlands and Louisa of_Prussia", "size": 1}
+   ]},
+   {"name": "Charlotte", "detail": "Charlotte\nBorn: 1800\nDied: 1806\nParents: William_I of_Netherlands and Wilhelmina", "size": 1},
+   {"name": "Marianne", "detail": "Marianne of_Netherlands\nBorn: 1810\nDied: 1883\nParents: William_I of_Netherlands and Wilhelmina", "size": 1}
+]}
+;

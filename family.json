@@ -1,0 +1,20 @@
+var loadData = 
+{"name": "root", "children": [
+   {"name": "A", "children": [
+       {"name": "AA", "children": [
+	      {"name": "AAA", "size": 2},
+		  {"name": "AAB", "size": 1}
+	   ]},
+       {"name": "AB", "size": 1}]
+       },  
+  {"name": "B", "children": [
+      {"name": "BA", "size": 1},
+      {"name": "BB", "size": 1},
+	  {"name": "BC", "size": 1}]
+   },  
+   {"name": "C", "children": [
+      {"name": "CA", "size": 2},
+      {"name": "CB", "size": 2}]
+   }
+]}
+;
