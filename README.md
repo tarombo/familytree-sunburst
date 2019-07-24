@@ -2,6 +2,8 @@
 Produce a family treee display which can be viewed in a web browser
 from a GEDCOM file.
 
+![example as image](https://github.com/johnandrea/familytree-sunburst/blob/master/examples/family.png)
+
 The display is based on the D3.js Zoomable Sunburst:
 https://bl.ocks.org/vasturiano/12da9071095fbd4df434e60d52d2d58d
   Circle sections are clickable to zoom into that section and descendants.
