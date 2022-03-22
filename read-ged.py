@@ -223,7 +223,9 @@ def name_to_first( name ):
 
    if parts[0]:
       # actually, take name up to the first space
-      return parts[0].strip().split()[0]
+      #return parts[0].strip().split()[0]
+      # asiboro: change to use all names
+      return parts[0].strip()
    else:
       return 'unknown'
 
@@ -238,10 +240,13 @@ def parent_name( which_parent, family ):
 def output_json( indent, comma, p ):
     # not bothering with json module, just output strings
 
+    title = ''
     name = 'unknown'
     if 'name' in persons[p]:
        name = persons[p]['name']
     firstname = 'unknown'
+    if 'title' in persons[p]:
+       title = persons[p]['title']
     if 'first name' in persons[p]:
        firstname = persons[p]['first name']
     birth = None
@@ -271,7 +276,7 @@ def output_json( indent, comma, p ):
     has_children = n_children > 0
 
     print( comma, end='' )
-    print( indent + '{"name": "' + firstname + '",', end='' )
+    print( indent + '{"name": "' + title + ' ' + firstname + '",', end='' )
     print( ' "detail": "' + value + '"', end='' )
 
     check = 'already output'
@@ -432,6 +437,10 @@ with open( datafile ) as inf:
               elif key == 'surn':
                    if indi and level1_key == 'name':
                       persons[indi]['surname'] = value
+
+              elif key == 'npfx':
+                   if indi and level1_key == 'name':
+                      persons[indi]['title'] = value
 
 if operation == 'list':
    for p in sorted( persons.keys() ):
