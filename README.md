@@ -1,5 +1,5 @@
 # familytree-sunburst
-Forked by arnold@siboro.com
+Forked by arnold@kopoka.com
 
 Produce a family treee display, from a GEDCOM file, which can be viewed/zoomed/hovered in a web browser.
 
